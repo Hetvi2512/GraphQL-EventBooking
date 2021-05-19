@@ -36,7 +36,7 @@ app.use(
 
 mongoose
   .connect(
-    `mongodb+srv://hetvi:GFIhFetBTPNCVRZ4@cluster0.ef7cq.mongodb.net/event_booking`
+    'connection URI'
   )
   .then(() => {
     mongoose.connection.once("open", () => {
