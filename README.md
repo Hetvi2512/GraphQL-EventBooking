@@ -1,4 +1,4 @@
-"# GraphQL-EventBooking" 
+# GraphQL + React Event Booking API 
 
 This application is made with help of graphQL where you can login, create events, book events.
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
